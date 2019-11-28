@@ -1,0 +1,13 @@
+python preprocess.py --num_workers 10 --name son --in_dir .\datasets\son --out_dir .\data\son
+
+
+python preprocess.py --num_workers 10 --name moon --in_dir .\datasets\angry --out_dir .\data\angry
+python preprocess.py --num_workers 10 --name fear --in_dir .\datasets\fear --out_dir .\data\fear
+python preprocess.py --num_workers 10 --name happy --in_dir .\datasets\happy --out_dir .\data\happy
+python preprocess.py --num_workers 10 --name sad --in_dir .\datasets\sad --out_dir .\data\sad
+python preprocess.py --num_workers 10 --name surprise --in_dir .\datasets\surprise --out_dir .\data\surprise
+python train_tacotron.py
+
+
+python train_vocoder.py
+
