@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f534321e-5945-4cbc-9b45-ea047fe83d77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/datasets/datafeeder_tacotron.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/datafeeder_tacotron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0000.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0001.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0002.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0003.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0004.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0005.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0006.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0007.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0008.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0009.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0010.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0011.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0012.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0013.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0014.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0015.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0016.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0017.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0018.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0019.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0020.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0021.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0022.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0023.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0024.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0025.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0026.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0027.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0028.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0029.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0030.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0031.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0032.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0033.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0034.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0035.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0036.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0037.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0038.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0039.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0040.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0041.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0042.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0043.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0044.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0045.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0046.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0047.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0048.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/003.0049.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0000.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0001.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0002.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0003.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0004.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0005.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0006.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0007.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0008.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0009.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0010.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0011.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0012.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0013.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0014.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0015.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0016.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0017.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0018.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0019.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0020.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0021.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0022.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0023.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0024.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0025.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0026.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0027.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0028.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0029.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0030.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0031.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0032.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0033.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0034.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0035.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0036.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0037.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0038.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0039.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0040.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0041.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0042.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0043.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0044.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0045.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0046.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0047.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0048.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0062.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0063.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0065.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0067.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0068.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0093.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0098.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0104.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0108.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0115.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/audio/006.0116.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/moon/moon-recognition-All.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0000.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0001.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0002.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0003.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0004.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0005.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0006.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0007.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0008.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0009.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0010.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0011.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0012.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0013.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0014.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0015.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0016.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0017.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0018.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0019.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0020.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0021.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0022.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0023.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0024.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0025.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0026.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0027.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0028.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0029.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0030.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0031.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0032.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0033.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0034.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10584578.0035.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0001.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0002.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0003.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0004.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0005.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0006.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0007.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0008.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0009.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0010.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0011.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0015.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0016.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/audio/NB10585784.0017.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/son/son-recognition-All.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hparams.py" beforeDir="false" afterPath="$PROJECT_DIR$/hparams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/synthesizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/synthesizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/rnn_wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/rnn_wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/tacotron.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/tacotron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/text/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_tacotron.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_tacotron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/명령어모음.txt" beforeDir="false" afterPath="$PROJECT_DIR$/명령어모음.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TdPByj2moRGSuZeReTtK5MtVso" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f534321e-5945-4cbc-9b45-ea047fe83d77" name="Default Changelist" comment="" />
+      <created>1573786867751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573786867751</updated>
+      <workItem from="1573786916539" duration="143000" />
+    </task>
+    <servers />
+  </component>
+</project>
